@@ -8,7 +8,7 @@ header {
      display: flex;
      justify-content: space-between;
      align-items: center;
-     background-color: #082758;
+     background-color: silver;
      padding: 30px;
 }
 
@@ -25,7 +25,7 @@ header {
 
 
 h1 {
-    color: white;
+    color: black;
 }
 
 a {
@@ -37,7 +37,7 @@ a {
 
 #introducao {
     display: flex;
-    background-color:rgba(98, 135, 255, 0.178);
+    background-color: lightgrey;
     justify-content: center;
     align-items: center;
     padding-left: 30px;
@@ -69,7 +69,7 @@ a {
 }
 
 #imagem img {
-    width: 600px;
+    width: 250px;
     border-radius: 10px;
     justify-content: center;
 }
@@ -80,7 +80,7 @@ h2 {
 }
 
 #titulocards {
-    background-color: #f4f0e6;
+    background-color: white;
     padding-left: 50px;
     padding-top: 50px;
     display: flex;
@@ -91,7 +91,7 @@ h3 {
     font-size: 30px;
     padding-top: 5px;
     font-weight: bold;
-    color: rgb(133, 109, 1);
+    color: black;
 }
 
 #numero h3 {
@@ -99,7 +99,7 @@ h3 {
 }
 
 #cards {
-    background-color: #f4f0e6;
+    background-color: silver;
     padding-left: 20px;
     padding-top: 20px;
     padding-bottom: 50px;
@@ -107,6 +107,7 @@ h3 {
     gap: 10px;
     justify-content: center;
     align-items: center;
+    
 }
 
 #cards  p {
@@ -127,10 +128,10 @@ h4 {
 }
 
 #avance {
-    background-color: #0e96b8;
+    background-color: lightgrey;
     text-align: center;
     padding: 30px;
-    color: whitesmoke;
+    color: black;
 }
 
 h5 {

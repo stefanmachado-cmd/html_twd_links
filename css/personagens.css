@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: rgba(173, 216, 230, 0.199);
+    background-color: rgb(255, 244, 244);
 }
 
 span {
@@ -17,7 +17,7 @@ header {
      display: flex;
      justify-content: space-between;
      align-items: center;
-     background-color: #082758;
+     background-color: silver;
      padding: 30px;
 }
 
@@ -35,7 +35,7 @@ header {
 
 
 h1 {
- color: white;
+ color: black;
 }
 
 a {
@@ -52,7 +52,7 @@ h2 {
 }
 
 #introducao {
-    background-color: rgba(98, 135, 255, 0.178);
+    background-color: silver;
     margin: 30px;
     display: flex;
     justify-content: center;
@@ -100,16 +100,18 @@ h4 {
 .card img {
     width: 100%;
     object-fit: cover;
+    height: 500px;
 }
 
 .card {
     background-color: white;
     padding: 20px;
     width: 30%;
+    height: 700px;
 }
 
 #rodape {
-    background-color: #082758;
+    background-color: black;
     display: flex;
     justify-content: space-between;
     align-items: center;
